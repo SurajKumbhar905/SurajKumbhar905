@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/D4D16AQEkYYJrWiwpFA/profile-displaybackgroundimage-shrink_350_1400/0/1709376862968?e=1714608000&v=beta&t=QHNzR7Iba5mcDt33mpw2xhL0AIOYPnyAGN5PL_mpPXU"  />
+  <img height="200" src="https://res.cloudinary.com/dsvr5oph9/image/upload/v1737440745/gallery_2_mduzpu.png"  />
 </div>
 
 ###
