@@ -8,7 +8,15 @@
 
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Suraj Kumbhar <br> I'm a Software Engineer, from 🇮🇳</h2>
+<h2 align="center">Hi 👋, I'm Suraj Kumbhar</h2>
+<h4 align="center">A passionate iOS Developer from 🇮🇳 India</h4>
+
+<p align="center">
+  🚀 I'm a Software Engineer with 3+ years of experience in building high-quality iOS apps using Swift and SwiftUI.<br>
+  💡 I enjoy learning about new technologies, improving UI/UX, and writing clean, maintainable code.<br>
+  🔧 Currently exploring Combine, Swift Concurrency, and Core Data.<br>
+  📫 Let's connect and build something great together!
+</p>
 
 ###
 
